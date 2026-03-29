@@ -11,8 +11,8 @@
 
 ## Author
 
-Nagi Alyafaey **
-Mechatronics / Robotics / Embedded Systems Enthusiast
+Nagi Alyafaey 
+** Mechatronics / Robotics / Embedded Systems Enthusiast **
 
 ## License
 
