@@ -8,11 +8,9 @@ Stop to stop the door
 Observe the door state using the lamps.
 
 ESP32 Version:
-Prepare your secrets.h file based on secrets_template.h.
-Add your own:
-Blynk Template ID
-Blynk Template Name
-Blynk Auth Token
+Add your Blynk Template ID
+Add your Blynk Template Name
+Add your Blynk Auth Token
 Wi-Fi SSIDs and passwords
 Upload the ESP32 code.
 Connect the system to Blynk.
