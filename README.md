@@ -123,7 +123,7 @@ smart-garage-door-system-nano-to-esp32/
 │   │   └── garage_door_nano.ino
 │   │
 │   └── esp32_blynk_ir/
-│       ├── garage_door_esp32.ino
+│       └── garage_door_esp32.ino
 │      
 ├── docs/
 │   ├── components_list.md
