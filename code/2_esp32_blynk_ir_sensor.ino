@@ -8,8 +8,8 @@
 #define BLYNK_AUTH_TOKEN "put yours here"
 
 // ====== Wi-Fi Networks ======
-const char* ssids[] = {"ssid1, ssid2, ssid3"};
-const char* passes[] = {"password1, password2, passwrod3"};
+const char* ssids[] = {"ssid1", "ssid2", "ssid3"};
+const char* passes[] = {"password1", "password2", "password3"};
 const int wifiCount = sizeof(ssids) / sizeof(ssids[0]);
 
 // ====== Motor Control Pins ======
