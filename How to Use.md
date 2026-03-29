@@ -1,3 +1,7 @@
+### Security Note
+
+- Sensitive credentials such as Wi-Fi names, passwords, and Blynk authentication tokens are not included in this repository.
+Please use your own secrets.h file locally, or just remove them from the codes if you want to public them on GitHub.
 
 ### Arduino Nano Version
 - Upload the Nano code to the Arduino Nano board.
@@ -17,3 +21,4 @@
 - Connect the system to Blynk.
 - Use the Blynk app for remote operation.
 - The IR sensor can trigger automatic opening when an object is detected.
+
