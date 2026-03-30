@@ -11,7 +11,7 @@
 
 ## Author
 
-Nagi Alyafaey 
+Nagi Al-Yafaey 
 
 (Mechatronics / Robotics / Embedded Systems Enthusiast)
 
